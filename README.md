@@ -11,7 +11,7 @@ Você pode visualizar o layout completa do projeto através [DESSE LINK](https:/
 
 
 ## Layout web
-![Mobile 1](https://raw.githubusercontent.com/brunooliveira7/Projeto-site-agencia-viagem/main/images/Site%20Viagem.jpg)
+![Mobile 1](https://github.com/brunooliveira7/Projeto-site-decoracao/blob/main/Images/Site%20Decoracao.jpg)
 
 # Tecnologias utilizadas
 
