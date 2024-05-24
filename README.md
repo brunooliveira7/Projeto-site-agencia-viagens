@@ -3,9 +3,9 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+https://brunooliveira7.github.io/Projeto-site-agencia-viagens/
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Atividade de site web do curso FullStack desenvolvido e idealizado pela [RocketSeat](https://www.rocketseat.com.br/).
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/7oBtItTwuNt4OwCcsqApwu/Projeto01-Extra-(Copy)?node-id=1-2&t=CQ4x7gVLZ44YOxGK-0). É necessário ter conta no Figma para acessá-lo.
 
@@ -18,9 +18,8 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## Front end
 - HTML 
 - CSS
+- Figma
 
 # Autor
 
-Bruno Ramos Oliveira, a partir de atividade da Rocketseat
-
-https://www.linkedin.com/in/wmazoni
+Bruno Ramos Oliveira
