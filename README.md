@@ -20,6 +20,6 @@ Você pode visualizar o layout completa do projeto através [DESSE LINK](https:/
 - CSS
 - Figma
 
-# Autor
+## :memo: Licença
 
-Bruno Ramos Oliveira
+Esse projeto está sob a licença MIT.
